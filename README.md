@@ -13,6 +13,6 @@
 
 <img src = "https://user-images.githubusercontent.com/102610889/187654537-df5d6d85-6172-4ccb-9bc0-1de4c89d0afa.png" width = "400" height = "400">
 
-##### *만약 주어진 시간을 버티거나 완전히 끝내면 YOU WIN을 표시하게 됩니다.*
+##### *만약 주어진 시간을 버티거나 완전히 끝내면 YOU WIN을 표시하게 됩니다!*     
 
 <img src = "https://user-images.githubusercontent.com/102610889/187656205-74db1d02-dec3-4041-8f42-6276852b2da3.png" width = "400" height = "400">
